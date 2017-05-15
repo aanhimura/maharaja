@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 10,
+    "uniqCompNum": 12,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/maharaja-02-128x114.png",
     "noImageResize": ""
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Maharaja Training &amp; Consulting</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-7\">PROFIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-7\">PELATIHAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-7\">TRAINER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-7\">RELASI KAMI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#msg-box8-7\">HUBUNGI KAMI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-7\">PROFIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-7\">PELATIHAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-7\">TRAINER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-7\">RELASI KAMI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#contacts3-a\">HUBUNGI KAMI</a></li>"
         },
         {
           "_tags": [
@@ -261,18 +261,151 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "content1-9",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>MAHARAJA Training &amp; Consulting</p><p><br></p><p>Realita kini, maraknya pengangguran terdidik bahkan sulitnya bersaing dalam mengembangkan usaha.</p><p>Dibutuhkan kemampuan khusus, bukan hanya mampu dalam Hard Skill, namun Unggul pula dalam Soft Skill.</p><p>Faktanya, Hard Skill hanya berperan 12% dalam keberhasilan.</p><p>Sedangkan Soft Skill berperan 88% dalam keberhasilan.</p><p><br></p><p>Kami hadir sebagai Solusi dalam mengembangkan kemampuan Soft Skill yang dimiliki.</p><p>Pelatihan dan Konsultasi terbaik dengan pelatihan khusus yang diawali dari mengetahui karakter diri, pengembangan potensi diri&nbsp;</p><p>mulai dari jenjang remaja, profesional muda, hingga pengusaha ataupun direksi dalam perusahaan.</p><p><br></p><p>Bagi kalangan pelajar, MAHARAJA Training &amp; Consulting memberikan Pelatihan dan Sertifikasi khusus</p><p>dalam mengembangkan kepribadian dan menentukan arah, serta bidang apa yang tepat bagi mereka.</p><p>Beberapa pelajar mengeluhkan tentang sulitnya memahami pelajaran, kurangnya fokus dalam belajar dan sebagainya.</p><p>Kami hadir memberikan arahan, pelatihan dan pembekalan terbaik bagi masa depan serta psikologis mereka.</p><p>Baik dalam bentuk In House Training ataupun OutBound Training.</p><p><br></p><p>Bagi profesional muda, MAHARAJA Training merupakan jawaban yang tepat bagi mereka yang ingin mengembangkan</p><p>kemampuan komunikasi, negosiasi serta meningkatkan kepercayaan diri. Dengan paket pelatihan Intensif Soft Skill, profesional muda akan lebih terarah dalam bekerja, mengembangkan kepribadian serta berperan besar dalam kesuksesan mereka.</p><p><br></p><p>Terutama bagi Pengusaha maupun para Direksi dalam sebuah perusahaan.</p><p>Kemampuan Leadership yang baik akan meningkatkan kepercayaan, kekompakan serta peningkatan kinerja karyawan.</p><p>Peningkatan kemampuan negosiasi, mengetahui karakter karyawan yang tepat serta mengembangkan SDM yang dimiliki</p><p>akan menjadikan Perusahaan atau Usaha yang dipimpin menjadi lebih besar bahkan Terbaik di bidangnya.</p><p><br></p><p><br></p><p><br></p><p><b>MAHARAJA Training &amp; Consulting</b></p><p><i>Solusi terbaik bagi masa depan Anda</i></p><p><br></p>",
+          "text": "<p>MAHARAJA Training &amp; Consulting</p><p><br></p><p>Realita kini, maraknya pengangguran terdidik bahkan sulitnya bersaing dalam mengembangkan usaha.</p><p>Dibutuhkan kemampuan khusus, bukan hanya mampu dalam Hard Skill, namun Unggul pula dalam Soft Skill.</p><p>Faktanya, Hard Skill hanya berperan 12% dalam keberhasilan.</p><p>Sedangkan Soft Skill berperan 88% dalam keberhasilan.</p><p><br></p><p>Kami hadir sebagai Solusi dalam mengembangkan kemampuan Soft Skill yang dimiliki.</p><p>Pelatihan dan Konsultasi terbaik dengan pelatihan khusus yang diawali dari mengetahui karakter diri, pengembangan potensi diri&nbsp;</p><p>mulai dari jenjang remaja, profesional muda, hingga pengusaha ataupun direksi dalam perusahaan.</p><p><br></p><p>Bagi kalangan pelajar, MAHARAJA Training &amp; Consulting memberikan Pelatihan dan Sertifikasi khusus</p><p>dalam mengembangkan kepribadian dan menentukan arah, serta bidang apa yang tepat bagi mereka.</p><p>Beberapa pelajar mengeluhkan tentang sulitnya memahami pelajaran, kurangnya fokus dalam belajar dan sebagainya.</p><p>Kami hadir memberikan arahan, pelatihan dan pembekalan terbaik bagi masa depan serta psikologis mereka.</p><p>Baik dalam bentuk In House Training ataupun OutBound Training.</p><p><br></p><p>Bagi profesional muda, MAHARAJA Training merupakan jawaban yang tepat bagi mereka yang ingin mengembangkan</p><p>kemampuan komunikasi, negosiasi serta meningkatkan kepercayaan diri. Dengan paket pelatihan Intensif Soft Skill, profesional muda akan lebih terarah dalam bekerja, mengembangkan kepribadian serta berperan besar dalam kesuksesan mereka.</p><p><br></p><p>Terutama bagi Pengusaha maupun para Direksi dalam sebuah perusahaan.</p><p>Kemampuan Leadership yang baik akan meningkatkan kepercayaan, kekompakan serta peningkatan kinerja karyawan.</p><p>Peningkatan kemampuan negosiasi, mengetahui karakter karyawan yang tepat serta mengembangkan SDM yang dimiliki</p><p>akan menjadikan Perusahaan atau Usaha yang dipimpin menjadi lebih besar bahkan Terbaik di bidangnya.</p><p><br></p><p><br></p><p><br></p><p><b>MAHARAJA Training &amp; Consulting</b></p><p><i>Solusi terbaik bagi masa depan Anda</i></p><p><br></p>"
+        },
+        {
           "_styles": {
-            "P": {
-              "text-align": "left"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
-          }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "PELATIHAN",
+          "text": "<p>PUBLIC TRAINING, &nbsp; &nbsp;IN DOOR TRAINING, &nbsp; &nbsp;OUTBOUND TRAINING</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/maharaja-265x237.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "MAHARAJA<br>Training &amp; Consulting&nbsp;@2017<br><br><br>CV.MAHARAJA<br>No. 503/2297/PK/BPMPPT/IV/2015&nbsp;",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "0838 7339 7624",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "Jln,Sudirman Raya No.35A<br>Sudirman - Tangerang",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">support@maharaja-training.com</a>",
+          "title1": "Categories",
+          "text5": "<br><li>Public Training</li><li><a class=\"text-white\" href=\"#\">I</a>n Door Training</li><li><a class=\"text-white\" href=\"#\">O</a>utBound Training</li><br>",
+          "text6": "<strong>Contacts</strong><br>Email: support@maharaja-training.com<br>Phone: 0838 7339 7624<br><br><b>Direktur Utama:</b><br>Ropik Nurjaman<br><b>Wakil Direktur Utama :</b><br>Achmad Anshori<br><br><br><br><strong>Address</strong><br>Jln,Sudirman Raya No.35A<br>Sudirman - Tangerang<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aan.lp3imkt@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     }

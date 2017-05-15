@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 8,
+    "uniqCompNum": 10,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/maharaja-02-128x114.png",
     "noImageResize": ""
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Maharaja Training &amp; Consulting</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">PROFIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">PELATIHAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">TRAINER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">RELASI KAMI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">HUBUNGI KAMI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">BERANDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-7\">PROFIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-7\">PELATIHAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-7\">TRAINER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-7\">RELASI KAMI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#msg-box8-7\">HUBUNGI KAMI</a></li>"
         },
         {
           "_tags": [
@@ -214,8 +214,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-7",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -232,9 +232,42 @@
             "showText": true,
             "showButton": false
           },
-          "title": "PROFIL",
-          "text": "<p>MAHARAJA Training &amp; Consulting</p>",
+          "title": "PROFIL<br><br>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>MAHARAJA Training &amp; Consulting, Solusi terbaik bagi masa depan.</p><p>Realita kini, maraknya pengangguran terdidik bahkan sulitnya bersaing dalam mengembangkan usaha.</p><p>Dibutuhkan kemampuan khusus, bukan hanya mampu dalam Hard Skill, namun Unggul pula dalam Soft Skill.</p><p>Faktanya, Hard Skill hanya berperan 12% dalam keberhasilan.</p><p>Sedangkan Soft Skill berperan 88% dalam keberhasilan.</p><p><br></p><p>Kami hadir sebagai Solusi dalam mengembangkan kemampuan Soft Skill yang dimiliki.</p><p>Pelatihan dan Konsultasi terbaik dengan pelatihan khusus yang diawali dari mengetahui karakter diri, pengembangan potensi diri&nbsp;</p><p>mulai dari jenjang remaja, profesional muda, hingga pengusaha besar.</p><p><br></p><p>MAHARAJA Training &amp; Consulting&nbsp;</p>"
         }
       ]
     }
